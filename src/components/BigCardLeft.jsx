@@ -1,6 +1,8 @@
 import React from "react";
 import "./styles/BigCardLeft.css";
 
+// Minor edit for September 19th, 2025 commit 2
+
 function BigCard(props) {
   return (
     <div className="bigcardleft-container">
